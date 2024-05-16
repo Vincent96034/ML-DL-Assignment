@@ -1,9 +1,7 @@
 ## ML&DL @ CBS - Recommendation System
-
-
-Freese, Julius <jufr23ac@student.cbs.dk>
-Haunberger, Vincent <viha23al@student.cbs.dk>
-Schröder, Fynn <fysc23ab@student.cbs.dk>
+- Freese, Julius <jufr23ac@student.cbs.dk>
+- Haunberger, Vincent <viha23al@student.cbs.dk>
+- Schröder, Fynn <fysc23ab@student.cbs.dk>
 
 This repository contains all code files for the final assignment of the course 'Machine Learning & Deep Learning' at Copenhagen Business School. The respective data files are too large to upload into this repository - they can be found in the submitted .zip file.
 
