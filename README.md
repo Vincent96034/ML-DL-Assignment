@@ -3,6 +3,35 @@
 - Haunberger, Vincent <viha23al@student.cbs.dk>
 - Schröder, Fynn <fysc23ab@student.cbs.dk>
 
+## How to run
+Unfortunately the input datasets are too large to be uploaded to github. Instead we uploaded this entire project to dropbox as well. To run, clone this repo and pull the data folder into the root directory. The data folder should have the following structure:
+```
+data
+└───danish_stopwords.txt
+|
+└───embeddings
+│   │   oai_embeddings_df.csv
+│   │   tfidf_embeddings_df.csv
+│ 
+└───mappings
+│   │   cid_mapping.csv
+│   │   eid_lookup_dev.csv
+│   │   eid_lookup_test.csv
+│   │   uid_mapping.csv
+│   
+└───processed
+│   │   events.csv
+│   │   interactions.csv
+│   │   items.csv
+│   │   response_evaluation.pkl
+│   │   user_embeddings.csv
+│   │   users.csv
+|
+└───raw
+    │   content_data.csv
+    │   events_data.csv
+```
+
 This repository contains all code files for the final assignment of the course 'Machine Learning & Deep Learning' at Copenhagen Business School. The respective data files are too large to upload into this repository - they can be found in the submitted .zip file.
 
 ## Structure
