@@ -3,8 +3,10 @@
 - Haunberger, Vincent <viha23al@student.cbs.dk>
 - Schröder, Fynn <fysc23ab@student.cbs.dk>
 
+This repository contains all code files for the final assignment of the course 'Machine Learning & Deep Learning' at Copenhagen Business School. The respective data files are too large to upload into this repository - they can be found in the submitted .zip file.
+
 ## How to run
-Unfortunately the input datasets are too large to be uploaded to github. Instead we uploaded this entire project to dropbox as well. To run, clone this repo and pull the data folder into the root directory. The data folder should have the following structure:
+Unfortunately the input datasets are too large to be uploaded to github. Instead we uploaded this entire project to [dropbox](https://www.dropbox.com/scl/fo/vy280k9kzdypda1ddfeuv/AGX7Eqa3XqatbAWewF20VxY?rlkey=pflywmcxn63er9wgaeehjvelv&st=e5arhvl3&dl=0) as well. To run, clone this repo and pull the data folder into the root directory. The data folder should have the following structure:
 ```
 data
 └───danish_stopwords.txt
@@ -32,7 +34,6 @@ data
     │   events_data.csv
 ```
 
-This repository contains all code files for the final assignment of the course 'Machine Learning & Deep Learning' at Copenhagen Business School. The respective data files are too large to upload into this repository - they can be found in the submitted .zip file.
 
 ## Structure
 
